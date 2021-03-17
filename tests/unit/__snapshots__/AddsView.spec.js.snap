@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddsView it renders the component 1`] = `
+<div class="home">
+  <ad-list-stub></ad-list-stub>
+  <ad-form-stub></ad-form-stub>
+</div>
+`;
